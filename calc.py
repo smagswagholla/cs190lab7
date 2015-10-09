@@ -41,7 +41,7 @@ def exp(a, b):
     return a ** b
 
 def mod(a, b):
-	return a % b
+    return a % b
 
 
 
@@ -79,11 +79,11 @@ while (True):
         elif (op == "/"):
             print "Quotient: ", div(a, b)
 
-		elif (op == "**")
-			print "ExpNum: ", exp(a, b)
+        elif (op == "**")
+            print "ExpNum: ", exp(a, b)
 
-		elif (op == "%"):
-			print "Modulo: ", mod(a, b)
+        elif (op == "%"):
+            print "Modulo: ", mod(a, b)
 
         else:
             print "Invalid operation..."
