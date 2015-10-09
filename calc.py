@@ -79,7 +79,7 @@ while (True):
         elif (op == "/"):
             print "Quotient: ", div(a, b)
 
-        elif (op == "**")
+        elif (op == "**"):
             print "ExpNum: ", exp(a, b)
 
         elif (op == "%"):
